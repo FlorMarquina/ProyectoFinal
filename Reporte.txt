@@ -1,0 +1,107 @@
+
+       REPORTE DE INGRESOS POR DEPARTAMENTO
+Baï¿½os: 2066.01
+Electrodomï¿½sticos: 3180.67
+Elï¿½ctrico: 3594.01
+Iluminaciï¿½n: 845.73
+Jardinerï¿½a: 2517.75
+Pintura: 9375.89
+Ventilacion: 1955.80
+
+     TOTAL DE INGRESOS POR CLIENTES:
+Alberto Salazar: 472.50
+Alicia Cï¿½rdenas: 494.55
+Ana Castro: 8.40
+Ana Fuentes: 1.25
+Ana Martï¿½nez: 43.00
+Ana Torres: 2.00
+Andrea Castillo: 372.25
+Andrï¿½s Silva: 137.90
+Andrï¿½s Vargas: 230.00
+Armando Rojas: 3039.17
+Beatriz ï¿½lvarez: 91.25
+Carlos Aguilar: 9.75
+Carlos Castro: 219.80
+Carlos Lï¿½pez: 0.78
+Carmen Torres: 83.75
+Carolina Salazar: 45.00
+Carolina Salinas: 221.99
+Claudia Peï¿½a: 83.40
+Cliente: 0.00
+Cristian Cortï¿½s: 33.00
+David Jimï¿½nez: 1.95
+Diego Romero: 522.60
+Elena Mendoza: 71.65
+Emiliano Salas: 219.75
+Ernesto Salinas: 196.35
+Estefanï¿½a Medina: 233.60
+Fabiola Mendoza: 123.85
+Felipe Acosta: 117.30
+Fernando Ortiz: 239.80
+Fernando Ramï¿½rez: 5.20
+Gabriela Torres: 59.70
+Grabiela Medina: 290.00
+Gustavo Leï¿½n: 149.60
+Hugo Bravo: 950.00
+Isabel Vargas: 49.90
+Javier Morales: 54.20
+Joaquï¿½n  Leï¿½n: 107.90
+Joel Romero: 3.45
+Josï¿½ Dï¿½as: 146.45
+Josï¿½ Hernï¿½ndez: 261.60
+Juan Pï¿½rez: 90.00
+Juliï¿½n Aguirre: 72.50
+Juliï¿½n Escobar: 75.00
+Karina Sorto: 23.90
+Karla Navarro: 800.00
+Kenia Molina: 32.20
+Kevin Ramï¿½rez: 243.25
+Laura Ramos: 22.20
+Laura Sï¿½nchez: 35.50
+Leonardo Pizarro: 37.60
+Letica Rivas: 59.76
+Lilia Jimï¿½nez: 35.90
+Lucï¿½a Villalobos: 1087.40
+Luis Rodrï¿½guez: 32.25
+Manuel Ortega: 115.85
+Mariana Rï¿½os: 59.50
+Marï¿½a Gonzï¿½lez: 47.05
+Miguel Soto: 135.80
+Mï¿½nica Parra: 1958.35
+Natalia Quiroz: 294.90
+Nicolï¿½s Calderï¿½n: 41.00
+Oscar Guzmï¿½n: 2304.60
+Osvaldo Garcï¿½a: 257.75
+Patricia Castro: 19.95
+Patricia Herrera: 72.15
+Patricia Lï¿½pez: 618.70
+Paula Aguirre: 165.00
+Pedro Castillo: 78.16
+Pedro Sorto: 8.95
+Ramï¿½n Quiï¿½ones: 36.00
+Raï¿½l Villanueva: 113.40
+Ricardo Cordero: 349.45
+Rosa Castro: 298.40
+Samuel Aguayo: 110.85
+Santiafo Lï¿½pez: 53.85
+Sergio Paredes: 570.00
+Sofï¿½a Fernï¿½ndez: 26.25
+Teresa Mendoza: 617.75
+Teresa Ruiz: 600.80
+Tomï¿½s Andrade: 180.65
+Valeria Ceballos: 147.20
+Verï¿½nica Castaï¿½eda: 1240.00
+Victoriano Zamora: 152.55
+Viviana Palacios: 195.60
+Yessica Morales: 623.35
+      TOP 10 PRODUCTOS MÃS VENDIDOS:
+70 Escalera aluminio 2 bandas 6 pies
+48 Serrucho plegable para podar
+47 Tester digital 600v ac/dc
+46 Manguito plastico para cable eléctrico 1/2pulg
+44 Cocina de gas 1 quemador
+43 Barniz de poliuretano 3000 mate 4l
+40 Manguera refozada para jardín 3/4 pulg x 100 pies
+38 Caja octagonal 4 pulg
+35 Canal para piso 50x12mm
+34 Regadera plastica 8l
