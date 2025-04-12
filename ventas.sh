@@ -1,5 +1,4 @@
 #!/bin/bash
-export LC_ALL=c
 archivo="ventas.csv"
 reporte="Reporte.txt"
 
@@ -22,6 +21,24 @@ function productos_mas_vendido() {
     done | sort -nr | head -n 10 | tee -a "$reporte" 
 }
 
+# Función para ingresos por categoría
+declare -A Categorias
+function ingresos_por_categoria() {
+    echo "     TOTAL DE INGRESOS POR CATEGORÍA:" | tee -a "$reporte"
+    {
+    read  # Saltar la primera línea (cabecera)
+    while IFS=";" read -r producto categoria cliente depto fecha cantidad precio ingreso; do
+        if [[ -n "$categoria" && -n "$ingreso" ]]; then
+            Categorias["$categoria"]=$(awk "BEGIN {print ${Categorias["$categoria"]:-0} + $ingreso}")
+        fi
+    done
+    } < "$archivo"
+
+    for categoria in "${!Categorias[@]}"; do
+        printf "%s: %.2f\n" "$categoria" "${Categorias[$categoria]}"
+    done | sort | tee -a "$reporte"
+}
+
 # Función para mostrar la lista de ingresos por clientes
 declare -A Clientes
 function ingresos_por_clientes() {
@@ -29,8 +46,6 @@ function ingresos_por_clientes() {
 
     # Leer el archivo y llenar el arreglo
    while IFS=";" read -r cliente ingreso; do
-    # Validar ingreso con grep
-    
         valor_actual=${Clientes["$cliente"]} #Guarda el ingreso actual del cliente desde el array
         if [[ -z "$valor_actual" ]]; then #verificar si la variable valor_actual está vacía
             valor_actual=0
@@ -84,10 +99,10 @@ while true; do
     read -p "Seleccione una opción: " opcion
     case $opcion in
         1) productos_mas_vendido ;;
-        2) ;;
+        2)  ingresos_por_categoria ;;
         3)  ;;
         4) ingresos_por_clientes ;;
-        5) ingresos_por_departamentos ;;
+        5) ingresos_por_departamentos ;; 
         6) echo "Saliendo..."; exit ;;
         *) echo "Opción no válida" ;;
     esac

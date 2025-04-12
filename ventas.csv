@@ -1,233 +1,233 @@
-Producto;CategorÌa;Cliente;Departamento;Fecha;Cantidad;Precio Unitario;Ingreso
-Poliducto de 1/2 pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;1/1/2023;3;0.16;0.48
-Poliducto de 1/2 pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;1/1/2023;3;0.16;0.48
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;3/1/2023;2;0.7;1.4
-Caja rectangular4x2pulg;TuberÌa elÈctrica;Ana Fuentes;ElÈctrico;4/1/2023;1;1.25;1.25
-Conector recto para cable de 1/2;TuberÌa elÈctrica;Ana Torres;ElÈctrico;5/1/2023;5;0.4;2
-Conector curvo para cable de 3/4;TuberÌa elÈctrica;Laura Ramos;ElÈctrico;6/1/2023;6;3.7;22.2
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;7/1/2023;3;1.5;4.5
-Toma doble rj45 cat6;Audio y video;Karina Sorto;ElÈctrico;8/1/2023;2;11.95;23.9
-Toma coaxial para tv blanco rj45;Audio y video;Pedro Sorto;ElÈctrico;9/1/2023;1;8.95;8.95
-Toma para tv y telefono;Audio y video;Juan PÈrez;ElÈctrico;10/1/2023;7;6.2;43.4
-Spliter para cable coaxial 2 vias;Audio y video;MarÌa Gonz·lez;ElÈctrico;11/1/2023;3;5.75;17.25
-Cable para audio y video rca 6 pies;Audio y video;Luis RodrÌguez;ElÈctrico;12/1/2023;5;3.25;16.25
-Terminal para cable coaxial rg59;Audio y video;Ana MartÌnez;ElÈctrico;13/1/2023;3;2.4;7.2
-Terminal para cable coaxial rg6;Audio y video;Carlos LÛpez;ElÈctrico;14/1/2023;2;0.15;0.3
-Cable para audio rca 2 vias;Audio y video;Laura S·nchez;ElÈctrico;15/1/2023;1;1.5;1.5
-Control remoto universal 3 funciones;Audio y video;JosÈ DÌas;ElÈctrico;16/1/2023;8;8.95;71.6
-Control remoto universal 5 funciones;Audio y video;Carmen Torres;ElÈctrico;17/1/2023;3;9.95;29.85
-Cable para bocina 2 #16;Audio y video;Fernando RamÌrez;ElÈctrico;18/1/2023;2;0.5;1
-Cable para bocina 2x20;Audio y video;Patricia Herrera;ElÈctrico;19/1/2023;1;0.3;0.3
-Cable para bocina 14 transparente;Audio y video;Javier Morales;ElÈctrico;20/1/2023;6;0.55;3.3
-Auricular 3.5mm blanco;Audio y video;Rosa Castro;ElÈctrico;21/1/2023;7;1.95;13.65
-Interruptor superficial 10a 125vac;Interruptores residenciales;Diego Romero;ElÈctrico;22/1/2023;5;0.9;4.5
-Interruptor sencillo negro 15a 120vac;Interruptores residenciales;Teresa Ruiz;ElÈctrico;23/1/2023;4;3.95;15.8
-Interruptor tipo dado 4 vias blanco;Interruptores residenciales;Manuel Ortega;ElÈctrico;24/1/2023;3;8.95;26.85
-Interruptor tipo dado con llave 10a 125vac;Interruptores residenciales;Isabel Vargas;ElÈctrico;25/1/2023;2;24.95;49.9
-Interruptor de palanca con cables 6a 125vac;Interruptores residenciales;David JimÈnez;ElÈctrico;26/1/2023;1;1.95;1.95
-Interruptor de palanca on-off 20a 125-127vac;Interruptores residenciales;Elena Mendoza;ElÈctrico;27/1/2023;7;5.95;41.65
-Cinta aislante 3/4pulg x 60pies;Aislantes elÈctricos;Carlos Aguilar;ElÈctrico;28/1/2023;5;1.95;9.75
-Cinta aislante 3/4pulg x 20yds;Aislantes elÈctricos;Pedro Castillo;ElÈctrico;29/1/2023;4;2.05;8.2
-Cinta aislante negra;Aislantes elÈctricos;Joel Romero;ElÈctrico;30/1/2023;3;1.15;3.45
-Cinta aislante de teflon 1pug x 36yds;Aislantes elÈctricos;Karla Navarro;ElÈctrico;31/1/2023;5;160;800
-Tester digital 600v ac/dc;Tester y probadores;AndrÈs Silva;ElÈctrico;1/2/2023;2;68.95;137.9
-Tester digital 750vac/dc 10a;Tester y probadores;SofÌa Fern·ndez;ElÈctrico;2/2/2023;3;8.75;26.25
-Tester digital 750vac/dc 20a uso automotriz;Tester y probadores;Miguel Soto;ElÈctrico;3/2/2023;4;33.95;135.8
-Soldador cautin 30w 120vac;Tester y probadores;Claudia PeÒa;ElÈctrico;4/2/2023;6;6.95;41.7
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;5/2/2023;4;10.5;42
-AmperÌmetro digital 400a milwaukee 223520;Tester y probadores;Grabiela Medina;ElÈctrico;6/2/2023;2;145;290
-AmperÌmetro digital 200a 1000vac/dc;Tester y probadores;Sergio Paredes;ElÈctrico;7/2/2023;3;190;570
-Probador de corriente;Tester y probadores;Paula Aguirre;ElÈctrico;8/2/2023;4;3.3;13.2
-Probador de voltaje led 1000 voltios;Tester y probadores;Ricardo Cordero;ElÈctrico;9/2/2023;6;39.95;239.7
-Analizador de circuitos 125vac;Tester y probadores;Mariana RÌos;ElÈctrico;10/2/2023;3;11.9;35.7
-Pintura latex cl·sica blanco 1gal;Pinturas;Kenia Molina;Pintura;11/2/2023;2;16.1;32.2
+ÔªøProducto;Categor√≠a;Cliente;Departamento;Fecha;Cantidad;Precio Unitario;Ingreso
+Poliducto de 1/2 pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;1/1/2023;3;0.16;0.48
+Poliducto de 1/2 pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;1/1/2023;3;0.16;0.48
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;3/1/2023;2;0.7;1.4
+Caja rectangular4x2pulg;Tuber√≠a el√©ctrica;Ana Fuentes;El√©ctrico;4/1/2023;1;1.25;1.25
+Conector recto para cable de 1/2;Tuber√≠a el√©ctrica;Ana Torres;El√©ctrico;5/1/2023;5;0.4;2
+Conector curvo para cable de 3/4;Tuber√≠a el√©ctrica;Laura Ramos;El√©ctrico;6/1/2023;6;3.7;22.2
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;7/1/2023;3;1.5;4.5
+Toma doble rj45 cat6;Audio y video;Karina Sorto;El√©ctrico;8/1/2023;2;11.95;23.9
+Toma coaxial para tv blanco rj45;Audio y video;Pedro Sorto;El√©ctrico;9/1/2023;1;8.95;8.95
+Toma para tv y telefono;Audio y video;Juan P√©rez;El√©ctrico;10/1/2023;7;6.2;43.4
+Spliter para cable coaxial 2 vias;Audio y video;Mar√≠a Gonz√°lez;El√©ctrico;11/1/2023;3;5.75;17.25
+Cable para audio y video rca 6 pies;Audio y video;Luis Rodr√≠guez;El√©ctrico;12/1/2023;5;3.25;16.25
+Terminal para cable coaxial rg59;Audio y video;Ana Mart√≠nez;El√©ctrico;13/1/2023;3;2.4;7.2
+Terminal para cable coaxial rg6;Audio y video;Carlos L√≥pez;El√©ctrico;14/1/2023;2;0.15;0.3
+Cable para audio rca 2 vias;Audio y video;Laura S√°nchez;El√©ctrico;15/1/2023;1;1.5;1.5
+Control remoto universal 3 funciones;Audio y video;Jos√© D√≠as;El√©ctrico;16/1/2023;8;8.95;71.6
+Control remoto universal 5 funciones;Audio y video;Carmen Torres;El√©ctrico;17/1/2023;3;9.95;29.85
+Cable para bocina 2 #16;Audio y video;Fernando Ram√≠rez;El√©ctrico;18/1/2023;2;0.5;1
+Cable para bocina 2x20;Audio y video;Patricia Herrera;El√©ctrico;19/1/2023;1;0.3;0.3
+Cable para bocina 14 transparente;Audio y video;Javier Morales;El√©ctrico;20/1/2023;6;0.55;3.3
+Auricular 3.5mm blanco;Audio y video;Rosa Castro;El√©ctrico;21/1/2023;7;1.95;13.65
+Interruptor superficial 10a 125vac;Interruptores residenciales;Diego Romero;El√©ctrico;22/1/2023;5;0.9;4.5
+Interruptor sencillo negro 15a 120vac;Interruptores residenciales;Teresa Ruiz;El√©ctrico;23/1/2023;4;3.95;15.8
+Interruptor tipo dado 4 vias blanco;Interruptores residenciales;Manuel Ortega;El√©ctrico;24/1/2023;3;8.95;26.85
+Interruptor tipo dado con llave 10a 125vac;Interruptores residenciales;Isabel Vargas;El√©ctrico;25/1/2023;2;24.95;49.9
+Interruptor de palanca con cables 6a 125vac;Interruptores residenciales;David Jim√©nez;El√©ctrico;26/1/2023;1;1.95;1.95
+Interruptor de palanca on-off 20a 125-127vac;Interruptores residenciales;Elena Mendoza;El√©ctrico;27/1/2023;7;5.95;41.65
+Cinta aislante 3/4pulg x 60pies;Aislantes el√©ctricos;Carlos Aguilar;El√©ctrico;28/1/2023;5;1.95;9.75
+Cinta aislante 3/4pulg x 20yds;Aislantes el√©ctricos;Pedro Castillo;El√©ctrico;29/1/2023;4;2.05;8.2
+Cinta aislante negra;Aislantes el√©ctricos;Joel Romero;El√©ctrico;30/1/2023;3;1.15;3.45
+Cinta aislante de teflon 1pug x 36yds;Aislantes el√©ctricos;Karla Navarro;El√©ctrico;31/1/2023;5;160;800
+Tester digital 600v ac/dc;Tester y probadores;Andr√©s Silva;El√©ctrico;1/2/2023;2;68.95;137.9
+Tester digital 750vac/dc 10a;Tester y probadores;Sof√≠a Fern√°ndez;El√©ctrico;2/2/2023;3;8.75;26.25
+Tester digital 750vac/dc 20a uso automotriz;Tester y probadores;Miguel Soto;El√©ctrico;3/2/2023;4;33.95;135.8
+Soldador cautin 30w 120vac;Tester y probadores;Claudia Pe√±a;El√©ctrico;4/2/2023;6;6.95;41.7
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;5/2/2023;4;10.5;42
+Amper√≠metro digital 400a milwaukee 223520;Tester y probadores;Grabiela Medina;El√©ctrico;6/2/2023;2;145;290
+Amper√≠metro digital 200a 1000vac/dc;Tester y probadores;Sergio Paredes;El√©ctrico;7/2/2023;3;190;570
+Probador de corriente;Tester y probadores;Paula Aguirre;El√©ctrico;8/2/2023;4;3.3;13.2
+Probador de voltaje led 1000 voltios;Tester y probadores;Ricardo Cordero;El√©ctrico;9/2/2023;6;39.95;239.7
+Analizador de circuitos 125vac;Tester y probadores;Mariana R√≠os;El√©ctrico;10/2/2023;3;11.9;35.7
+Pintura latex cl√°sica blanco 1gal;Pinturas;Kenia Molina;Pintura;11/2/2023;2;16.1;32.2
 Mezclador de pintura 100mm;Pinturas;Victoriano Zamora;Pintura;12/2/2023;3;4.9;14.7
 Abridor de tapas de pintura;Pinturas;Ana Castro;Pintura;13/2/2023;4;2.1;8.4
-Pintura en esmalte cl·sica dorado 1/8gal;Pinturas;Tom·s Andrade;Pintura;14/2/2023;7;7.25;50.75
+Pintura en esmalte cl√°sica dorado 1/8gal;Pinturas;Tom√°s Andrade;Pintura;14/2/2023;7;7.25;50.75
 Pintura esmalte anticorrosivo blanco 4l;Pinturas;Valeria Ceballos;Pintura;15/2/2023;4;36.8;147.2
 Pintura anticorrosiva roja 4l;Pinturas;Felipe Acosta;Pintura;16/2/2023;3;39.1;117.3
 Anticorrosivo negro brillante 1gal;Pinturas;Carolina Salinas;Pintura;17/2/2023;2;16.73;33.46
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;18/2/2023;5;49;245
-Barniz de poliuretano base agua 3000 brillante 1 l;Protectores para madera;LucÌa Villalobos;Pintura;19/2/2023;2;16.8;33.6
-Tinte al aceite arce amaranto 960 ml;Protectores para madera;Gustavo LeÛn;Pintura;20/2/2023;3;9.95;29.85
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;18/2/2023;5;49;245
+Barniz de poliuretano base agua 3000 brillante 1 l;Protectores para madera;Luc√≠a Villalobos;Pintura;19/2/2023;2;16.8;33.6
+Tinte al aceite arce amaranto 960 ml;Protectores para madera;Gustavo Le√≥n;Pintura;20/2/2023;3;9.95;29.85
 Tinte para madera al alcohol negro 960 ml;Protectores para madera;Natalia Quiroz;Pintura;21/2/2023;4;8.75;35
 Masilla para madera 1/8 gal;Protectores para madera;Ernesto Salinas;Pintura;22/2/2023;5;3.3;16.5
 Pegamento escolar 7.6 oz;pegamentos ;Andrea Castillo;Pintura;23/2/2023;1;2.25;2.25
-Pegamento resistol 850 1/8gal;pegamentos ;Ra˙l Villanueva;Pintura;24/2/2023;3;4.5;13.5
-Pegamento resistol 950 1gal;pegamentos ;Beatriz ¡lvarez;Pintura;25/2/2023;5;18.25;91.25
-Pegamento cola blanca master pega 1gal;pegamentos ;Nicol·s CalderÛn;Pintura;26/2/2023;4;10.25;41
+Pegamento resistol 850 1/8gal;pegamentos ;Ra√∫l Villanueva;Pintura;24/2/2023;3;4.5;13.5
+Pegamento resistol 950 1gal;pegamentos ;Beatriz √Ålvarez;Pintura;25/2/2023;5;18.25;91.25
+Pegamento cola blanca master pega 1gal;pegamentos ;Nicol√°s Calder√≥n;Pintura;26/2/2023;4;10.25;41
 Pegamento de contacto para laminados 1/32gal;pegamentos ;Fabiola Mendoza;Pintura;27/2/2023;2;2;4
-Pegamento de contacto para calzado 1gal;pegamentos ;Juli·n Escobar;Pintura;28/2/2023;3;25;75
-Escalera aluminio de extension 28 pies;Escaleras;VerÛnica CastaÒeda;Pintura;1/3/2023;4;310;1240
+Pegamento de contacto para calzado 1gal;pegamentos ;Juli√°n Escobar;Pintura;28/2/2023;3;25;75
+Escalera aluminio de extension 28 pies;Escaleras;Ver√≥nica Casta√±eda;Pintura;1/3/2023;4;310;1240
 Escalera aluminio de extension 16 pies;Escaleras;Hugo Bravo;Pintura;2/3/2023;5;190;950
-Escalera 2 peldaÒos;Escaleras;EstefanÌa Medina;Pintura;3/3/2023;6;33.95;203.7
+Escalera 2 pelda√±os;Escaleras;Estefan√≠a Medina;Pintura;3/3/2023;6;33.95;203.7
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;4/3/2023;4;58.75;235
-Toallero de argolla acero inoxidable;Accesorios para baÒos;MÛnica Parra;BaÒos;5/3/2023;3;15.95;47.85
-Toallero de argolla satinado;Accesorios para baÒos;Cristian CortÈs;BaÒos;6/3/2023;2;16.5;33
-Portarrollo para baÒo;Accesorios para baÒos;Letica Rivas;BaÒos;7/3/2023;4;14.94;59.76
-Portarrollo para baÒo;Accesorios para baÒos;Juli·n Aguirre;BaÒos;8/3/2023;5;14.5;72.5
-Jabonera para baÒo pl·stica transparente rectangular;Accesorios para baÒos;Carolina Salazar;BaÒos;9/3/2023;6;7.5;45
-Dispensador de jabÛn lÌquido para baÒo pl·stico;Accesorios para baÒos;Leonardo Pizarro;BaÒos;10/3/2023;3;10.95;32.85
-Percha acero inoxidable;Accesorios para baÒos;Teresa Mendoza;BaÒos;11/3/2023;4;8.75;35
-Percha doble cromada;Accesorios para baÒos;RamÛn QuiÒones;BaÒos;12/3/2023;4;9;36
-Lavamanos ovalado de empotrar blanco;lavamanos;Viviana Palacios;BaÒos;13/3/2023;3;46.95;140.85
-Lavamanos de submontar cuadrado color blanco 39x40.3cm;lavamanos;JoaquÌn  LeÛn;BaÒos;14/3/2023;2;53.95;107.9
-Lavamanos de pared ovalado blanco  aguazul;lavamanos;Patricia Castro;BaÒos;15/3/2023;1;19.95;19.95
-Lavamano de pared ovalado blanco;lavamanos;Samuel Aguayo;BaÒos;16/3/2023;3;36.95;110.85
-Lavamano de sobreponer redondo blanco;lavamanos;Alicia C·rdenas;BaÒos;17/3/2023;4;54.95;219.8
-Espejo para baÒo con repisanegro;Decoracion para baÒo;Emiliano Salas;BaÒos;18/3/2023;5;43.95;219.75
-Espejo para baÒo con repisablanco;Decoracion para baÒo;Gabriela Torres;BaÒos;19/3/2023;6;9.95;59.7
-Alfombra para baÒo antideslizante 43x92cm;Decoracion para baÒo;Santiafo LÛpez;BaÒos;20/3/2023;3;17.95;53.85
-Tubo para cortina de baÒo 100-180cm crema;Decoracion para baÒo;Yessica Morales;BaÒos;21/3/2023;3;8.95;26.85
-Inodoro elongado de 1 pieza color blanco;Innodoros;AndrÈs Vargas;BaÒos;22/3/2023;2;115;230
-Inodoro redondo blanco 2 pzas;Innodoros;Fernando Ortiz;BaÒos;23/3/2023;4;59.95;239.8
-L·mpara colgante 1 luz e27 cobre antiguo;Luminarias de interior;Lilia JimÈnez;IluminaciÛn;24/3/2023;2;17.95;35.9
-L·mpara colgante vidrio negro 1l e27;Luminarias de interior;Patricia LÛpez;IluminaciÛn;25/3/2023;3;87.5;262.5
-L·mpara de pared led 4.2w blanca;Luminarias de interior;Osvaldo GarcÌa;IluminaciÛn;26/3/2023;5;14.95;74.75
-Chasis para tubo led 3x18w 2x4 pies;Luminarias de interior;Carlos Castro;IluminaciÛn;27/3/2023;4;54.95;219.8
-Foco led 7w e27 luz amarilla;L·mparas led;Fernando RamÌrez;IluminaciÛn;28/3/2023;3;1.4;4.2
-Foco led 30w e27 luz blanca alta potencia;L·mparas led;Juan PÈrez;IluminaciÛn;29/3/2023;2;5.5;11
-Reflector led gu10 5w luz blanca set de 3 pzas;L·mparas led;Juan PÈrez;IluminaciÛn;30/3/2023;4;3.95;15.8
-Reflector led gu10 4w luz amarilla;L·mparas led;Luis RodrÌguez;IluminaciÛn;31/3/2023;5;3.2;16
-Tubo led de vidrio 18w luz blanca;L·mparas led;Ana MartÌnez;IluminaciÛn;1/4/2023;4;8.95;35.8
-L·mpara de mano led verde 9 leds;Linternas;Osvaldo GarcÌa;IluminaciÛn;2/4/2023;3;2.25;6.75
-L·mpara de mano led aluminio negro 2 baterias aa;Linternas;Laura S·nchez;IluminaciÛn;3/4/2023;4;8.5;34
-L·mpara de mano led negra 3aa y recargable;Linternas;JosÈ DÌas;IluminaciÛn;4/4/2023;3;24.95;74.85
-L·mpara de mano led recargable;Linternas;Carmen Torres;IluminaciÛn;5/4/2023;2;26.95;53.9
-Foco incandescente para l·mpara de amno 3d;Linternas;Carlos LÛpez;IluminaciÛn;6/4/2023;4;0.12;0.48
+Toallero de argolla acero inoxidable;Accesorios para ba√±os;M√≥nica Parra;Ba√±os;5/3/2023;3;15.95;47.85
+Toallero de argolla satinado;Accesorios para ba√±os;Cristian Cort√©s;Ba√±os;6/3/2023;2;16.5;33
+Portarrollo para ba√±o;Accesorios para ba√±os;Letica Rivas;Ba√±os;7/3/2023;4;14.94;59.76
+Portarrollo para ba√±o;Accesorios para ba√±os;Juli√°n Aguirre;Ba√±os;8/3/2023;5;14.5;72.5
+Jabonera para ba√±o pl√°stica transparente rectangular;Accesorios para ba√±os;Carolina Salazar;Ba√±os;9/3/2023;6;7.5;45
+Dispensador de jab√≥n l√≠quido para ba√±o pl√°stico;Accesorios para ba√±os;Leonardo Pizarro;Ba√±os;10/3/2023;3;10.95;32.85
+Percha acero inoxidable;Accesorios para ba√±os;Teresa Mendoza;Ba√±os;11/3/2023;4;8.75;35
+Percha doble cromada;Accesorios para ba√±os;Ram√≥n Qui√±ones;Ba√±os;12/3/2023;4;9;36
+Lavamanos ovalado de empotrar blanco;lavamanos;Viviana Palacios;Ba√±os;13/3/2023;3;46.95;140.85
+Lavamanos de submontar cuadrado color blanco 39x40.3cm;lavamanos;Joaqu√≠n  Le√≥n;Ba√±os;14/3/2023;2;53.95;107.9
+Lavamanos de pared ovalado blanco  aguazul;lavamanos;Patricia Castro;Ba√±os;15/3/2023;1;19.95;19.95
+Lavamano de pared ovalado blanco;lavamanos;Samuel Aguayo;Ba√±os;16/3/2023;3;36.95;110.85
+Lavamano de sobreponer redondo blanco;lavamanos;Alicia C√°rdenas;Ba√±os;17/3/2023;4;54.95;219.8
+Espejo para ba√±o con repisanegro;Decoracion para ba√±o;Emiliano Salas;Ba√±os;18/3/2023;5;43.95;219.75
+Espejo para ba√±o con repisablanco;Decoracion para ba√±o;Gabriela Torres;Ba√±os;19/3/2023;6;9.95;59.7
+Alfombra para ba√±o antideslizante 43x92cm;Decoracion para ba√±o;Santiafo L√≥pez;Ba√±os;20/3/2023;3;17.95;53.85
+Tubo para cortina de ba√±o 100-180cm crema;Decoracion para ba√±o;Yessica Morales;Ba√±os;21/3/2023;3;8.95;26.85
+Inodoro elongado de 1 pieza color blanco;Innodoros;Andr√©s Vargas;Ba√±os;22/3/2023;2;115;230
+Inodoro redondo blanco 2 pzas;Innodoros;Fernando Ortiz;Ba√±os;23/3/2023;4;59.95;239.8
+L√°mpara colgante 1 luz e27 cobre antiguo;Luminarias de interior;Lilia Jim√©nez;Iluminaci√≥n;24/3/2023;2;17.95;35.9
+L√°mpara colgante vidrio negro 1l e27;Luminarias de interior;Patricia L√≥pez;Iluminaci√≥n;25/3/2023;3;87.5;262.5
+L√°mpara de pared led 4.2w blanca;Luminarias de interior;Osvaldo Garc√≠a;Iluminaci√≥n;26/3/2023;5;14.95;74.75
+Chasis para tubo led 3x18w 2x4 pies;Luminarias de interior;Carlos Castro;Iluminaci√≥n;27/3/2023;4;54.95;219.8
+Foco led 7w e27 luz amarilla;L√°mparas led;Fernando Ram√≠rez;Iluminaci√≥n;28/3/2023;3;1.4;4.2
+Foco led 30w e27 luz blanca alta potencia;L√°mparas led;Juan P√©rez;Iluminaci√≥n;29/3/2023;2;5.5;11
+Reflector led gu10 5w luz blanca set de 3 pzas;L√°mparas led;Juan P√©rez;Iluminaci√≥n;30/3/2023;4;3.95;15.8
+Reflector led gu10 4w luz amarilla;L√°mparas led;Luis Rodr√≠guez;Iluminaci√≥n;31/3/2023;5;3.2;16
+Tubo led de vidrio 18w luz blanca;L√°mparas led;Ana Mart√≠nez;Iluminaci√≥n;1/4/2023;4;8.95;35.8
+L√°mpara de mano led verde 9 leds;Linternas;Osvaldo Garc√≠a;Iluminaci√≥n;2/4/2023;3;2.25;6.75
+L√°mpara de mano led aluminio negro 2 baterias aa;Linternas;Laura S√°nchez;Iluminaci√≥n;3/4/2023;4;8.5;34
+L√°mpara de mano led negra 3aa y recargable;Linternas;Jos√© D√≠as;Iluminaci√≥n;4/4/2023;3;24.95;74.85
+L√°mpara de mano led recargable;Linternas;Carmen Torres;Iluminaci√≥n;5/4/2023;2;26.95;53.9
+Foco incandescente para l√°mpara de amno 3d;Linternas;Carlos L√≥pez;Iluminaci√≥n;6/4/2023;4;0.12;0.48
 Ventilador de mesa blanco ambiance 12 pulg;Ventiladores;Patricia Herrera;Ventilacion;7/4/2023;3;23.95;71.85
 Ventilador de mesa turbo 8pulg 3 velocidades;Ventiladores;Javier Morales;Ventilacion;8/4/2023;2;25.45;50.9
 Ventilador de mesa blanco 13pulg;Ventiladores;Rosa Castro;Ventilacion;9/4/2023;5;56.95;284.75
 Ventilador de techo 32pulg 6 aspas;Ventiladores;Diego Romero;Ventilacion;10/4/2023;6;86.35;518.1
-Ventilador de techo de 3 aspas 76.20cm;Ventiladores;Patricia LÛpez;Ventilacion;11/4/2023;4;89.05;356.2
+Ventilador de techo de 3 aspas 76.20cm;Ventiladores;Patricia L√≥pez;Ventilacion;11/4/2023;4;89.05;356.2
 Ventilador de pared industrial de 30pulg;Ventiladores;Teresa Ruiz;Ventilacion;12/4/2023;3;195;585
 Ventilador de pared de 18pulg;Ventiladores;Manuel Ortega;Ventilacion;13/4/2023;2;44.5;89
-Cafetera italiana de acero inoxidable 0.8 taza;Cafeteras y teteras;Elena Mendoza;ElectrodomÈsticos;14/4/2023;4;7.5;30
-Cafetera italiana de aluminio color azul;Cafeteras y teteras;Ricardo Cordero;ElectrodomÈsticos;15/4/2023;5;21.95;109.75
-Cafetera elÈctrica 12 tazas negra;Cafeteras y teteras;Victoriano Zamora;ElectrodomÈsticos;16/4/2023;3;45.95;137.85
-Cafetera 5 tazas acero inoxidable;Cafeteras y teteras;Carolina Salinas;ElectrodomÈsticos;17/4/2023;4;42.95;171.8
-Hervidor de agua electrico 1.7l;Cafeteras y teteras;Oscar Guzm·n;ElectrodomÈsticos;18/4/2023;3;33.95;101.85
-Tetera electrica de plastico 1.7l negro;Cafeteras y teteras;Paula Aguirre;ElectrodomÈsticos;19/4/2023;4;37.95;151.8
-Parrilla electrica negra;Cocina;Tom·s Andrade;ElectrodomÈsticos;20/4/2023;2;64.95;129.9
-Cocina electrica de 2 hornillas de 500w y  1000w;Cocina;Oscar Guzm·n;ElectrodomÈsticos;21/4/2023;3;23.95;71.85
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;22/4/2023;4;23.95;95.8
-Licuadora vaso plastico 1.5l;Licuadoras;Gustavo LeÛn;ElectrodomÈsticos;23/4/2023;5;23.95;119.75
-Licuadora vaso de vidrio 1.5l 4 velocidades;Licuadoras;Ernesto Salinas;ElectrodomÈsticos;24/4/2023;3;59.95;179.85
-Horno microondas 31l;Microondas;Natalia Quiroz;ElectrodomÈsticos;25/4/2023;2;129.95;259.9
-Horno microondas digital 0.7 pies negro;Microondas;Andrea Castillo;ElectrodomÈsticos;26/4/2023;4;92.5;370
-Tostador de pan 2 rebanadas negro;Tostadores de pan;Ra˙l Villanueva;ElectrodomÈsticos;27/4/2023;2;49.95;99.9
-Tostadora de 2 rebanadas;Tostadores de pan;Fabiola Mendoza;ElectrodomÈsticos;28/4/2023;3;39.95;119.85
-Plancha a vapor 900w;Planchas;EstefanÌa Medina;ElectrodomÈsticos;29/4/2023;2;14.95;29.9
-Plancha a vapor vertical;Planchas;Armando Rojas;ElectrodomÈsticos;30/4/2023;1;42.92;42.92
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;1/5/2023;4;38.95;155.8
-Rociador plastico 500ml;Riego;Leonardo Pizarro;JardinerÌa;2/5/2023;5;0.95;4.75
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;3/5/2023;3;8.5;25.5
-Tijera para podar;Herramientas para jardÌn;Viviana Palacios;JardinerÌa;4/5/2023;5;10.95;54.75
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;5/5/2023;3;11.95;35.85
-Rastrillo plastico para jardin 22 dientes;Herramientas para jardÌn;Juan PÈrez;JardinerÌa;6/5/2023;4;4.95;19.8
-Rastrillo met·lico para jardÌn 22 dientes;Herramientas para jardÌn;MarÌa Gonz·lez;JardinerÌa;7/5/2023;3;5.95;17.85
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;8/5/2023;5;6.95;34.75
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;9/5/2023;6;0.7;4.2
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;10/5/2023;7;38.95;272.65
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;11/5/2023;2;23.95;47.9
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;12/5/2023;4;10.5;42
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;13/5/2023;5;1.5;7.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;14/5/2023;6;49;294
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;15/5/2023;3;8.5;25.5
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;16/5/2023;4;11.95;47.8
+Cafetera italiana de acero inoxidable 0.8 taza;Cafeteras y teteras;Elena Mendoza;Electrodom√©sticos;14/4/2023;4;7.5;30
+Cafetera italiana de aluminio color azul;Cafeteras y teteras;Ricardo Cordero;Electrodom√©sticos;15/4/2023;5;21.95;109.75
+Cafetera el√©ctrica 12 tazas negra;Cafeteras y teteras;Victoriano Zamora;Electrodom√©sticos;16/4/2023;3;45.95;137.85
+Cafetera 5 tazas acero inoxidable;Cafeteras y teteras;Carolina Salinas;Electrodom√©sticos;17/4/2023;4;42.95;171.8
+Hervidor de agua electrico 1.7l;Cafeteras y teteras;Oscar Guzm√°n;Electrodom√©sticos;18/4/2023;3;33.95;101.85
+Tetera electrica de plastico 1.7l negro;Cafeteras y teteras;Paula Aguirre;Electrodom√©sticos;19/4/2023;4;37.95;151.8
+Parrilla electrica negra;Cocina;Tom√°s Andrade;Electrodom√©sticos;20/4/2023;2;64.95;129.9
+Cocina electrica de 2 hornillas de 500w y  1000w;Cocina;Oscar Guzm√°n;Electrodom√©sticos;21/4/2023;3;23.95;71.85
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;22/4/2023;4;23.95;95.8
+Licuadora vaso plastico 1.5l;Licuadoras;Gustavo Le√≥n;Electrodom√©sticos;23/4/2023;5;23.95;119.75
+Licuadora vaso de vidrio 1.5l 4 velocidades;Licuadoras;Ernesto Salinas;Electrodom√©sticos;24/4/2023;3;59.95;179.85
+Horno microondas 31l;Microondas;Natalia Quiroz;Electrodom√©sticos;25/4/2023;2;129.95;259.9
+Horno microondas digital 0.7 pies negro;Microondas;Andrea Castillo;Electrodom√©sticos;26/4/2023;4;92.5;370
+Tostador de pan 2 rebanadas negro;Tostadores de pan;Ra√∫l Villanueva;Electrodom√©sticos;27/4/2023;2;49.95;99.9
+Tostadora de 2 rebanadas;Tostadores de pan;Fabiola Mendoza;Electrodom√©sticos;28/4/2023;3;39.95;119.85
+Plancha a vapor 900w;Planchas;Estefan√≠a Medina;Electrodom√©sticos;29/4/2023;2;14.95;29.9
+Plancha a vapor vertical;Planchas;Armando Rojas;Electrodom√©sticos;30/4/2023;1;42.92;42.92
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;1/5/2023;4;38.95;155.8
+Rociador plastico 500ml;Riego;Leonardo Pizarro;Jardiner√≠a;2/5/2023;5;0.95;4.75
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;3/5/2023;3;8.5;25.5
+Tijera para podar;Herramientas para jard√≠n;Viviana Palacios;Jardiner√≠a;4/5/2023;5;10.95;54.75
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;5/5/2023;3;11.95;35.85
+Rastrillo plastico para jardin 22 dientes;Herramientas para jard√≠n;Juan P√©rez;Jardiner√≠a;6/5/2023;4;4.95;19.8
+Rastrillo met√°lico para jard√≠n 22 dientes;Herramientas para jard√≠n;Mar√≠a Gonz√°lez;Jardiner√≠a;7/5/2023;3;5.95;17.85
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;8/5/2023;5;6.95;34.75
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;9/5/2023;6;0.7;4.2
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;10/5/2023;7;38.95;272.65
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;11/5/2023;2;23.95;47.9
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;12/5/2023;4;10.5;42
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;13/5/2023;5;1.5;7.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;14/5/2023;6;49;294
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;15/5/2023;3;8.5;25.5
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;16/5/2023;4;11.95;47.8
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;17/5/2023;5;58.75;293.75
-Soldador cautin 30w 120vac;Tester y probadores;Claudia PeÒa;ElÈctrico;18/5/2023;3;6.95;20.85
-Soldador cautin 30w 120vac;Tester y probadores;Claudia PeÒa;ElÈctrico;19/5/2023;3;6.95;20.85
-Analizador de circuitos 125vac;Tester y probadores;Mariana RÌos;ElÈctrico;20/5/2023;2;11.9;23.8
+Soldador cautin 30w 120vac;Tester y probadores;Claudia Pe√±a;El√©ctrico;18/5/2023;3;6.95;20.85
+Soldador cautin 30w 120vac;Tester y probadores;Claudia Pe√±a;El√©ctrico;19/5/2023;3;6.95;20.85
+Analizador de circuitos 125vac;Tester y probadores;Mariana R√≠os;El√©ctrico;20/5/2023;2;11.9;23.8
 Anticorrosivo negro brillante 1gal;Pinturas;Carolina Salinas;Pintura;21/5/2023;1;16.73;16.73
-Lavamano de sobreponer redondo blanco;lavamanos;Alicia C·rdenas;BaÒos;22/5/2023;5;54.95;274.75
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;23/5/2023;2;6.95;13.9
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;24/5/2023;4;0.7;2.8
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;25/5/2023;3;38.95;116.85
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;26/5/2023;5;23.95;119.75
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;27/5/2023;6;10.5;63
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;28/5/2023;7;1.5;10.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;29/5/2023;8;49;392
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;30/5/2023;2;8.5;17
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;31/5/2023;4;11.95;47.8
+Lavamano de sobreponer redondo blanco;lavamanos;Alicia C√°rdenas;Ba√±os;22/5/2023;5;54.95;274.75
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;23/5/2023;2;6.95;13.9
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;24/5/2023;4;0.7;2.8
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;25/5/2023;3;38.95;116.85
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;26/5/2023;5;23.95;119.75
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;27/5/2023;6;10.5;63
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;28/5/2023;7;1.5;10.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;29/5/2023;8;49;392
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;30/5/2023;2;8.5;17
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;31/5/2023;4;11.95;47.8
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;1/6/2023;6;58.75;352.5
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;2/6/2023;4;6.95;27.8
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;3/6/2023;3;0.7;2.1
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;4/6/2023;5;38.95;194.75
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;5/6/2023;3;23.95;71.85
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;6/6/2023;5;10.5;52.5
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;7/6/2023;6;1.5;9
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;8/6/2023;4;49;196
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;9/6/2023;3;8.5;25.5
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;10/6/2023;2;11.95;23.9
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;2/6/2023;4;6.95;27.8
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;3/6/2023;3;0.7;2.1
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;4/6/2023;5;38.95;194.75
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;5/6/2023;3;23.95;71.85
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;6/6/2023;5;10.5;52.5
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;7/6/2023;6;1.5;9
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;8/6/2023;4;49;196
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;9/6/2023;3;8.5;25.5
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;10/6/2023;2;11.95;23.9
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;11/6/2023;6;58.75;352.5
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;12/6/2023;4;6.95;27.8
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;13/6/2023;3;0.7;2.1
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;14/6/2023;2;38.95;77.9
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;15/6/2023;1;23.95;23.95
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;16/6/2023;4;10.5;42
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;17/6/2023;5;1.5;7.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;18/6/2023;3;49;147
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;19/6/2023;5;8.5;42.5
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;20/6/2023;3;11.95;35.85
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;12/6/2023;4;6.95;27.8
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;13/6/2023;3;0.7;2.1
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;14/6/2023;2;38.95;77.9
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;15/6/2023;1;23.95;23.95
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;16/6/2023;4;10.5;42
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;17/6/2023;5;1.5;7.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;18/6/2023;3;49;147
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;19/6/2023;5;8.5;42.5
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;20/6/2023;3;11.95;35.85
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;21/6/2023;5;58.75;293.75
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;22/6/2023;3;6.95;20.85
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;23/6/2023;4;0.7;2.8
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;24/6/2023;5;38.95;194.75
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;25/6/2023;6;23.95;143.7
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;26/6/2023;5;10.5;52.5
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;27/6/2023;6;1.5;9
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;28/6/2023;3;49;147
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;29/6/2023;2;8.5;17
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;30/6/2023;5;11.95;59.75
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;22/6/2023;3;6.95;20.85
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;23/6/2023;4;0.7;2.8
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;24/6/2023;5;38.95;194.75
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;25/6/2023;6;23.95;143.7
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;26/6/2023;5;10.5;52.5
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;27/6/2023;6;1.5;9
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;28/6/2023;3;49;147
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;29/6/2023;2;8.5;17
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;30/6/2023;5;11.95;59.75
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;1/7/2023;3;58.75;176.25
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;2/7/2023;4;6.95;27.8
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;3/7/2023;5;0.7;3.5
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;4/7/2023;6;38.95;233.7
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;5/7/2023;4;23.95;95.8
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;6/7/2023;3;10.5;31.5
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;7/7/2023;3;1.5;4.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;8/7/2023;2;49;98
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;9/7/2023;6;8.5;51
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;10/7/2023;8;11.95;95.6
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;2/7/2023;4;6.95;27.8
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;3/7/2023;5;0.7;3.5
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;4/7/2023;6;38.95;233.7
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;5/7/2023;4;23.95;95.8
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;6/7/2023;3;10.5;31.5
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;7/7/2023;3;1.5;4.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;8/7/2023;2;49;98
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;9/7/2023;6;8.5;51
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;10/7/2023;8;11.95;95.6
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;11/7/2023;4;58.75;235
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;12/7/2023;6;6.95;41.7
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;13/7/2023;4;0.7;2.8
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;14/7/2023;2;38.95;77.9
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;15/7/2023;7;23.95;167.65
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;16/7/2023;3;10.5;31.5
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;17/7/2023;5;1.5;7.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;18/7/2023;3;49;147
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;19/7/2023;2;8.5;17
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;20/7/2023;6;11.95;71.7
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;12/7/2023;6;6.95;41.7
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;13/7/2023;4;0.7;2.8
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;14/7/2023;2;38.95;77.9
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;15/7/2023;7;23.95;167.65
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;16/7/2023;3;10.5;31.5
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;17/7/2023;5;1.5;7.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;18/7/2023;3;49;147
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;19/7/2023;2;8.5;17
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;20/7/2023;6;11.95;71.7
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;21/7/2023;4;58.75;235
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;22/7/2023;4;6.95;27.8
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;23/7/2023;3;0.7;2.1
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;24/7/2023;3;38.95;116.85
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;25/7/2023;6;23.95;143.7
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;26/7/2023;4;10.5;42
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;27/7/2023;3;1.5;4.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;28/7/2023;4;49;196
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;29/7/2023;5;8.5;42.5
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;30/7/2023;3;11.95;35.85
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;22/7/2023;4;6.95;27.8
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;23/7/2023;3;0.7;2.1
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;24/7/2023;3;38.95;116.85
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;25/7/2023;6;23.95;143.7
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;26/7/2023;4;10.5;42
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;27/7/2023;3;1.5;4.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;28/7/2023;4;49;196
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;29/7/2023;5;8.5;42.5
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;30/7/2023;3;11.95;35.85
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;31/7/2023;5;58.75;293.75
-Canal para piso 50x12mm;TuberÌa elÈctrica;Kevin RamÌrez;ElÈctrico;1/8/2023;3;6.95;20.85
-Caja octagonal 4 pulg;TuberÌa elÈctrica;JosÈ Hern·ndez;ElÈctrico;2/8/2023;4;0.7;2.8
-Manguera refozada para jardÌn 3/4 pulg x 100 pies;Riego;MÛnica Parra;JardinerÌa;3/8/2023;3;38.95;116.85
-Cocina de gas 1 quemador;Cocina;LucÌa Villalobos;ElectrodomÈsticos;4/8/2023;6;23.95;143.7
-Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;ElÈctrico;5/8/2023;7;10.5;73.5
-Manguito plastico para cable elÈctrico 1/2pulg;TuberÌa elÈctrica;Pedro Castillo;ElÈctrico;6/8/2023;3;1.5;4.5
-Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm·n;Pintura;7/8/2023;5;49;245
-Regadera plastica 8l;Riego;Teresa Mendoza;JardinerÌa;8/8/2023;3;8.5;25.5
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;9/8/2023;4;11.95;47.8
+Canal para piso 50x12mm;Tuber√≠a el√©ctrica;Kevin Ram√≠rez;El√©ctrico;1/8/2023;3;6.95;20.85
+Caja octagonal 4 pulg;Tuber√≠a el√©ctrica;Jos√© Hern√°ndez;El√©ctrico;2/8/2023;4;0.7;2.8
+Manguera refozada para jard√≠n 3/4 pulg x 100 pies;Riego;M√≥nica Parra;Jardiner√≠a;3/8/2023;3;38.95;116.85
+Cocina de gas 1 quemador;Cocina;Luc√≠a Villalobos;Electrodom√©sticos;4/8/2023;6;23.95;143.7
+Tester digital 600v ac/dc;Tester y probadores;Alberto Salazar;El√©ctrico;5/8/2023;7;10.5;73.5
+Manguito plastico para cable el√©ctrico 1/2pulg;Tuber√≠a el√©ctrica;Pedro Castillo;El√©ctrico;6/8/2023;3;1.5;4.5
+Barniz de poliuretano 3000 mate 4l;Protectores para madera;Oscar Guzm√°n;Pintura;7/8/2023;5;49;245
+Regadera plastica 8l;Riego;Teresa Mendoza;Jardiner√≠a;8/8/2023;3;8.5;25.5
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;9/8/2023;4;11.95;47.8
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;10/8/2023;6;58.75;352.5
 Escalera aluminio 2 bandas 6 pies;Escaleras;Armando Rojas;Pintura;11/8/2023;3;58.75;176.25
-Escalera aluminio 2 bandas 6 pies;Escaleras;JosÈ Hern·ndez;Pintura;12/8/2023;4;58.75;235
-Escalera aluminio 2 bandas 6 pies;Escaleras;MÛnica Parra;Pintura;13/8/2023;2;58.75;117.5
+Escalera aluminio 2 bandas 6 pies;Escaleras;Jos√© Hern√°ndez;Pintura;12/8/2023;4;58.75;235
+Escalera aluminio 2 bandas 6 pies;Escaleras;M√≥nica Parra;Pintura;13/8/2023;2;58.75;117.5
 Escalera aluminio 2 bandas 6 pies;Escaleras;Teresa Mendoza;Pintura;14/8/2023;5;58.75;293.75
 Escalera aluminio 2 bandas 6 pies;Escaleras;Yessica Morales;Pintura;15/8/2023;1;58.75;58.75
-Escalera aluminio 2 bandas 6 pies;Escaleras;MÛnica Parra;Pintura;16/8/2023;4;58.75;235
-Escalera aluminio 2 bandas 6 pies;Escaleras;Osvaldo GarcÌa;Pintura;17/8/2023;3;58.75;176.25
-Serrucho plegable para podar;Herramientas para jardÌn;Yessica Morales;JardinerÌa;18/8/2023;3;11.95;35.85
-Serrucho plegable para podar;Herramientas para jardÌn;Oscar Guzm·n;JardinerÌa;19/8/2023;2;11.95;23.9
-Serrucho plegable para podar;Herramientas para jardÌn;MarÌa Gonz·lez;JardinerÌa;20/8/2023;1;11.95;11.95
+Escalera aluminio 2 bandas 6 pies;Escaleras;M√≥nica Parra;Pintura;16/8/2023;4;58.75;235
+Escalera aluminio 2 bandas 6 pies;Escaleras;Osvaldo Garc√≠a;Pintura;17/8/2023;3;58.75;176.25
+Serrucho plegable para podar;Herramientas para jard√≠n;Yessica Morales;Jardiner√≠a;18/8/2023;3;11.95;35.85
+Serrucho plegable para podar;Herramientas para jard√≠n;Oscar Guzm√°n;Jardiner√≠a;19/8/2023;2;11.95;23.9
+Serrucho plegable para podar;Herramientas para jard√≠n;Mar√≠a Gonz√°lez;Jardiner√≠a;20/8/2023;1;11.95;11.95
