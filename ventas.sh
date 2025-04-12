@@ -39,6 +39,30 @@ function ingresos_por_categoria() {
     done | sort | tee -a "$reporte"
 }
 
+# Función para ingresos por mes (corregida para formato DD/MM/YYYY)
+declare -A Meses
+function ingresos_por_mes() {
+    echo "     TOTAL DE INGRESOS POR MES:" | tee -a "$reporte"
+    {
+    read  # Saltar cabecera
+    while IFS=";" read -r producto categoria cliente depto fecha cantidad precio ingreso; do
+        if [[ -n "$fecha" && -n "$ingreso" ]]; then
+            # Convertir fecha DD/MM/YYYY a formato YYYY-MM
+            IFS='/' read -ra FECHA <<< "$fecha"
+            mes=$(printf "%04d-%02d" "${FECHA[2]}" "${FECHA[1]}")
+            
+            if [[ -n "$mes" ]]; then
+                Meses["$mes"]=$(awk "BEGIN {print ${Meses["$mes"]:-0} + $ingreso}")
+            fi
+        fi
+    done
+    } < "$archivo"
+
+    for mes in "${!Meses[@]}"; do
+        printf "%s: %.2f\n" "$mes" "${Meses[$mes]}"
+    done | sort | tee -a "$reporte"
+}
+
 # Función para mostrar la lista de ingresos por clientes
 declare -A Clientes
 function ingresos_por_clientes() {
@@ -99,8 +123,8 @@ while true; do
     read -p "Seleccione una opción: " opcion
     case $opcion in
         1) productos_mas_vendido ;;
-        2)  ingresos_por_categoria ;;
-        3)  ;;
+        2) ingresos_por_categoria ;;
+        3) ingresos_por_mes ;;
         4) ingresos_por_clientes ;;
         5) ingresos_por_departamentos ;; 
         6) echo "Saliendo..."; exit ;;
